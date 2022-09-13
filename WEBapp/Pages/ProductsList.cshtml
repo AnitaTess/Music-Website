@@ -1,0 +1,75 @@
+@page
+@model WebApp.Pages.ListModel
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinook Music</title>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+
+        p {
+            font-family: Arial;
+            font-size: 12pt;
+            font-weight: bold;
+        }
+ 
+        table {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+ 
+        table th {
+            background-color: #B8DBFD;
+            color: #333;
+            font-weight: bold;
+        }
+ 
+        table th, table td {
+            padding: 5px;
+            border: 1px solid #ccc;
+        }
+ 
+        table, table table td {
+            border: 0px solid #ccc;
+        }
+ 
+        input[type=text], select {
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <h1>@Model.Headingg</h1>
+
+ @foreach (var i in Model.joinResults){
+  
+    <p>Album: @i.AlbumName</p>
+    <p>by: @i.ArtistName</p>
+  }
+     <table>
+     <thead class="thead-inverse">
+ <tr>
+     <th>Tracks:</th>
+ </tr>
+ </thead>
+ <tbody>
+    @foreach (var j in Model.joinResults2){
+  <tr>
+    <td>@j.TrackName</td>
+  </tr>}
+  </tbody>
+</table> 
+<br>
+<a href='@Url.Page("Index")'>Back to List</a>
+</body>
+
+</html>
+

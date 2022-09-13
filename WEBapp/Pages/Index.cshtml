@@ -1,0 +1,86 @@
+@page
+@model WebApp.Pages.ProductsModel
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinook Music</title>
+    
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+ 
+        table {
+            border: 1px solid #ccc;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+ 
+        table th {
+            background-color: #B8DBFD;
+            color: #333;
+            font-weight: bold;
+        }
+ 
+        table th, table td {
+            padding: 5px;
+            border: 1px solid #ccc;
+        }
+ 
+        table, table table td {
+            border: 0px solid #ccc;
+        }
+
+        .delete {
+            color: red;
+        }
+        .edit {
+            color: green;
+        }
+        .details {
+            color: orange;
+        }
+
+        input[type=text], select {
+            width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <h1>@Model.Heading</h1>
+    <button type="button"><a href='@Url.Page("Add")'>Add New Album</a></button>
+     <form method="get" class="form1">
+      
+        <div class="input-group">
+            <input class="form-control" name="SearchTerm" asp-for="SearchTerm" />
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+       
+    </form>
+     <table>
+     <thead class="thead-inverse">
+ <tr><th>Album:</th>
+ <th>Artist:</th>
+ </tr>
+ </thead>
+ <tbody>
+     @foreach (var j in Model.joinResults){
+  <tr>
+    <td>@j.AlbumName</td>
+    <td>@j.ArtistName</td>
+    
+    <td><a class="details" href='@Url.Page("ProductsList")?id=@j.AlbumId'>Details</a></td>
+    <td><a class="edit" href='@Url.Page("Edit")?id=@j.AlbumId'>Update</a></td>
+    <td><a onclick="return confirm('Are you sure you want to delete this album?')" asp-page="Delete" asp-route-id="@j.AlbumId" href='@Url.Page("Delete")?id=@j.AlbumId' >Delete</a></td>
+  </tr>}
+  </tbody>
+</table> 
+</body>
+
+</html>
+

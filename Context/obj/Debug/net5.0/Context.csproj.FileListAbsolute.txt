@@ -1,0 +1,101 @@
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\tryout\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\Context.dll
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.csprojAssemblyReference.cache
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.csproj.CopyComplete
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.dll
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\graem\Downloads\tryout\tryout\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Context\obj\Debug\net5.0\Context.csproj.CopyComplete
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.deps.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.csproj.CopyComplete
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\ref\Context.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Context\obj\Debug\net5.0\Context.pdb

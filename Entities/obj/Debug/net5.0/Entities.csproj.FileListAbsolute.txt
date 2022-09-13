@@ -1,0 +1,84 @@
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryout\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\APKI .NET\tryout\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\graem\Downloads\tryout\tryout\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\graem\Downloads\tryout\tryout\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\Entities\obj\Debug\net5.0\Entities.pdb

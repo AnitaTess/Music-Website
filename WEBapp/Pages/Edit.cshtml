@@ -1,0 +1,40 @@
+@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebApp.Pages.EditModel
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinook Music</title>
+</head>
+<body>
+    <h1>Update Album Information</h1>
+    @foreach (var i in Model.joinResults){
+    <h3>Album ID: @i.AlbumId</h3>
+    <h3>Title: @i.AlbumName</h3>
+    <h3>by: @i.ArtistName</h3>
+  }
+  <h2>New information:</h2>
+    <form action="~/Edit" method="post">
+    <input type="hidden" name="ID" value="@Model.upRecord.AlbumId">
+        <p>Title: <input type="text" name="titlename" value="@Model.upRecord.Title"></p>
+       <p> Artist:<input type="number" min="1" max="283" name="artysta" list="artists" /></p>
+       <datalist id="artists" value="@Model.upRecord.ArtistId">
+        @foreach (var i in Model.artistss){
+        <option  value="@i.ArtistId">@i.ArtistId @i.Name</option>
+        }</datalist>
+        <p><input type="submit" name="submit" value="Submit"></p>
+    </form> 
+    <ol>
+     @foreach (var j in Model.joinResults2){
+    <li>@j.TrackName</li>
+     }
+    </ol>
+</body>
+
+</html>
+

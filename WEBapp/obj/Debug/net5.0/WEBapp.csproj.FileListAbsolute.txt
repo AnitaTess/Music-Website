@@ -1,0 +1,452 @@
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\WebAppNorth\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\APKI .NET\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csprojAssemblyReference.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\graem\Downloads\tryout\tryout\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\APKI .NET\tryoutG\tryout\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Add.cshtml.g.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Delete.cshtml.g.cs
+C:\Users\aakse\Desktop\CourseworkTwo\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Add.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Delete.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\Uni3\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\appsettings.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.exe
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.deps.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.runtimeconfig.dev.json
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Context.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Entities.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Context.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\bin\Debug\net5.0\Entities.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.AssemblyReference.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfoInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.AssemblyInfo.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CoreCompileInputs.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorAssemblyInfo.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.Manifest.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\staticwebassets\WEBapp.StaticWebAssets.xml
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\scopedcss\bundle\WEBapp.styles.css
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.input.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.TagHelpers.output.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorCoreGenerate.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Add.cshtml.g.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Delete.cshtml.g.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\Razor\Pages\ProductsList.cshtml.g.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cache
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.RazorTargetAssemblyInfo.cs
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.Views.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.csproj.CopyComplete
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\ref\WEBapp.dll
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.pdb
+C:\Users\aakse\Desktop\UWS\3rd year\internet-scripting\Project Anita Aksentowicz\Project\WEBapp\obj\Debug\net5.0\WEBapp.genruntimeconfig.cache

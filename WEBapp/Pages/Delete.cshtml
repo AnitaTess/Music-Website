@@ -1,0 +1,34 @@
+@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebApp.Pages.DelModel
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinook Music</title>
+</head>
+<body>
+    <h1>Delete</h1>
+
+<h3>You deleted this record:</h3>
+<div>
+    
+    @foreach (var i in Model.joinResults){
+  
+    <h4>Album ID: @i.AlbumId</h4>
+    <h4>Title: @i.AlbumName</h4>
+    <h4>by: @i.ArtistName</h4>
+  }
+
+    <form method="post" action="~/Delete">
+        <a href='@Url.Page("Index")'>Back to List</a>
+    </form>
+</div>
+</body>
+
+</html>
+
